@@ -1,0 +1,6 @@
+Caramidarosie,200,rosu,120
+BCA,100,Vosu,120
+Piatra,100,Vosu,120
+Lemn,100,Vosu,120
+Barne,100,Vosu,120
+
